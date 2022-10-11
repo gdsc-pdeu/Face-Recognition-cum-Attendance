@@ -4,7 +4,7 @@
 
 [Kunal Kumar Sahoo](https://github.com/Kunal-Kumar-Sahoo)
 
-To install the requirements use the foollowinng command:
+To install the requirements use the followinng command: <br>
 ```pip/pip3 install -r requirements.txt```
 
 If any problems faced during installation of dlib library, refer to this page:
